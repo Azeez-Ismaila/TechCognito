@@ -16,7 +16,7 @@ body {
 
 /* main section  */
 #main-page {
-  background-image: url("/images/chewy.jpg");
+  background-image: url("chewy.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
